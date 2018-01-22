@@ -1,12 +1,12 @@
 backend:
   name: github
-  repo: ArtMusicPro/artmusicpro.ru # Path to your Github repository
+  repo: CeleRn/blog.open-odoo.ru # Path to your Github repository
   branch: master # Branch to update (master by default)
 
 production:
   backend:
     name: github
-    repo: Yartsev/blog.open-odoo.ru
+    repo: CeleRn/blog.open-odoo.ru
     branch: master
 media_folder: "source/assets/images" # Folder where user uploaded files should go
 public_folder: "source"
